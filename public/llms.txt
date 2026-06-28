@@ -1,0 +1,87 @@
+# א.ב אבן דרך עבודות עפר ופיתוח — Generative Engine Optimization Map
+
+> A construction and earthworks business specializing in swimming pool excavation and land development. The company focuses on heavy-duty ground preparation and infrastructure work, serving clients who want to build swimming pools or develop land. The business operates in the construction sector with a focus on practical, professional, and reliable services.
+
+---
+
+## Pages
+
+### בית
+https://-4b9ebe61.zappy5.app
+מחפשים קבלן עפר אמין לחפירת בריכה או פיתוח שטח? אנחנו כאן עם ציוד כבד, מקצועיות ללא פשרות וליווי צמוד עד למטר האחרון. צרו קשר עוד היום!
+
+### שירותים
+https://-4b9ebe61.zappy5.app/services
+חפירה, מילוי, פילוס ותשתית – כל שירותי העפר תחת קורת גג אחת. גלו איך אנו מדייקים כל סנטימטר בפרויקטי בנייה ופיתוח קרקע. התקשרו להתרשם!
+
+### אודות
+https://-4b9ebe61.zappy5.app/about
+מאחורי כל פרויקט מוצלח עומד צוות מנוסה. הכירו את הסיפור, הערכים והמחויבות שלנו לאיכות בעבודות עפר, חפירת בריכות ופיתוח קרקע. בואו לעבוד עם הטובים ביותר.
+
+### צור קשר
+https://-4b9ebe61.zappy5.app/contact
+מוכנים להתחיל לחפור? השאירו פרטים ונחזור עם הצעת מחיר משתלמת, תכנון מדויק ולוח זמנים ברור. הדרך לבריכה או לשטח המפותח מתחילה כאן!
+
+### תודה שפניתם אלינו
+https://-4b9ebe61.zappy5.app/thank-you
+א.ב אבן דרך עבודות עפר ופיתוח - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-4b9ebe61.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-4b9ebe61.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-4b9ebe61.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-4b9ebe61.zappy5.app/contact
+- Endpoint: https://-4b9ebe61.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About א.ב אבן דרך עבודות עפר ופיתוח
+A construction and earthworks business specializing in swimming pool excavation and land development. The company focuses on heavy-duty ground preparation and infrastructure work, serving clients who want to build swimming pools or develop land. The business operates in the construction sector with a focus on practical, professional, and reliable services.
+
+## Services/Products
+- עבודות עפר
+- פיתוח
+- חפירת בריכות שחיה
+
+## Target Audience
+- קבלני משנה לפיתוח בריכות שחייה
+- יזמי נדל"ן
+- בעלי בתים יוקרתיים
+
+## Industry
+Earthworks & Construction
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-4b9ebe61.zappy5.app/sitemap.xml
+- Robots: https://-4b9ebe61.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-4b9ebe61.zappy5.app/llms-full.txt
