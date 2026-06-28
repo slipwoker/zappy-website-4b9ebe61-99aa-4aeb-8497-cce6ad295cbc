@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-4b9ebe61.zappy5.app
+https://example.com
 מחפשים קבלן עפר אמין לחפירת בריכה או פיתוח שטח? אנחנו כאן עם ציוד כבד, מקצועיות ללא פשרות וליווי צמוד עד למטר האחרון. צרו קשר עוד היום!
 
 ### שירותים
-https://-4b9ebe61.zappy5.app/services
+https://example.com/services
 חפירה, מילוי, פילוס ותשתית – כל שירותי העפר תחת קורת גג אחת. גלו איך אנו מדייקים כל סנטימטר בפרויקטי בנייה ופיתוח קרקע. התקשרו להתרשם!
 
 ### אודות
-https://-4b9ebe61.zappy5.app/about
+https://example.com/about
 מאחורי כל פרויקט מוצלח עומד צוות מנוסה. הכירו את הסיפור, הערכים והמחויבות שלנו לאיכות בעבודות עפר, חפירת בריכות ופיתוח קרקע. בואו לעבוד עם הטובים ביותר.
 
 ### צור קשר
-https://-4b9ebe61.zappy5.app/contact
+https://example.com/contact
 מוכנים להתחיל לחפור? השאירו פרטים ונחזור עם הצעת מחיר משתלמת, תכנון מדויק ולוח זמנים ברור. הדרך לבריכה או לשטח המפותח מתחילה כאן!
 
 ### תודה שפניתם אלינו
-https://-4b9ebe61.zappy5.app/thank-you
+https://example.com/thank-you
 א.ב אבן דרך עבודות עפר ופיתוח - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-4b9ebe61.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-4b9ebe61.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-4b9ebe61.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-4b9ebe61.zappy5.app/contact
-- Endpoint: https://-4b9ebe61.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Earthworks & Construction
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-4b9ebe61.zappy5.app/sitemap.xml
-- Robots: https://-4b9ebe61.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-4b9ebe61.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
